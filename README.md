@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Henrique! 👋
 
 Sou um [Estudante de Engenharia / Desenvolvedor Web] apaixonado por criar soluções que geram impacto real. Atualmente estou focado no ecosistema Java.
 
@@ -6,8 +6,8 @@ Sou um [Estudante de Engenharia / Desenvolvedor Web] apaixonado por criar soluç
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** [Java, JavaScript]
-* **Banco de Dados:** [PostgreSQL]
+* **Linguagens:** Java, JavaScript
+* **Banco de Dados:** PostgreSQL
 
 ---
 
@@ -15,12 +15,12 @@ Sou um [Estudante de Engenharia / Desenvolvedor Web] apaixonado por criar soluç
 
 **1. [Engenharia Solidária]**
 > Plataforma web acadêmica que conecta estudantes de engenharia a projetos sociais de construção em comunidades, unindo aprendizado prático e impacto social.
-* *Tecnologias:* [Javascript, Python]
+* *Tecnologias:* Javascript, Python
 * [Link para o Repositório](https://github.com/HenriqueCliri/engenharia_solidaria)
 
 **2. [Vibration monitoring]**
 > Sensor de detecção de anomalias de sistema que funcionam com uma vibração padrão (ainda estou trabalhando, mas já funciona o básico). atuando de forma a prevenir possíveis problemas.
-* *Tecnologias:* [C++, Nextjs, ESP32]
+* *Tecnologias:* C++, Nextjs, ESP32
 * [Link para o Repositório](https://github.com/HenriqueCliri/vibration_monitor)
 
 ---
