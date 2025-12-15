@@ -1,13 +1,13 @@
 # Olá, eu sou o Henrique! 👋
 
-Sou um Estudante de Engenharia / Desenvolvedor Web apaixonado por criar soluções que geram impacto real. Atualmente estou focado no ecosistema Java.
+Sou um Estudante de Engenharia / Desenvolvedor Web que gosta de criar soluções que geram impacto real. Atualmente estou focado no ecosistema Java.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** Java, JavaScript
-* **Banco de Dados:** PostgreSQL
+* **Linguagens:** java/javascript/c++
+* **Banco de Dados:** postgreSQL
 
 ---
 
