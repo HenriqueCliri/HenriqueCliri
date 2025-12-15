@@ -6,19 +6,19 @@ Sou um Estudante de Engenharia / Desenvolvedor Web que gosta de criar soluções
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** java/javascript/c++
+* **Linguagens:** java / javascript / c++ / python
 * **Banco de Dados:** postgreSQL
 
 ---
 
 ### 🚀 Projetos Destacados
 
-**1. [Engenharia Solidária]**
+**1. Engenharia Solidária**
 > Plataforma web acadêmica que conecta estudantes de engenharia a projetos sociais de construção em comunidades, unindo aprendizado prático e impacto social.
 * *Tecnologias:* Javascript, Python
 * [Link para o Repositório](https://github.com/HenriqueCliri/engenharia_solidaria)
 
-**2. [Vibration monitoring]**
+**2. Vibration monitoring**
 > Sensor de detecção de anomalias de sistema que funcionam com uma vibração padrão (ainda estou trabalhando, mas já funciona o básico). atuando de forma a prevenir possíveis problemas.
 * *Tecnologias:* C++, Nextjs, ESP32
 * [Link para o Repositório](https://github.com/HenriqueCliri/vibration_monitor)
