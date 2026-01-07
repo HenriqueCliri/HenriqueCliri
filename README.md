@@ -1,6 +1,6 @@
 # Olá, eu sou o Henrique! 👋
 
-Sou um Estudante de Engenharia / Desenvolvedor Web, que gosta de criar soluções que geram impacto real. Atualmente estou focado no ecosistema Java.
+Sou Estudante de Engenharia / Desenvolvedor Web, que gosta de criar soluções que geram impacto real. Atualmente estou focado no ecosistema Java.
 
 ---
 
