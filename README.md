@@ -6,7 +6,7 @@ Sou Estudante de Engenharia / Desenvolvedor Web, que gosta de criar soluções q
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** java / javascript / c++ / python
+* **Linguagens:** java / javascript / c++
 * **Banco de Dados:** postgreSQL
 
 ---
