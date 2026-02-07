@@ -6,7 +6,7 @@ Sou Estudante de Engenharia, que gosta de criar soluções que geram impacto rea
 
 ### 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** Java / Javascript / c++
+* **Linguagens:** Java / Javascript / C++
 * **Banco de Dados:** postgreSQL
 
 ---
@@ -29,5 +29,3 @@ Sou Estudante de Engenharia, que gosta de criar soluções que geram impacto rea
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-857011198/)
 * 📧 **Email:** [henrique.cliri@gmail.com]
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HenriqueCliri&show_icons=true&theme=dracula&hide_border=true)
